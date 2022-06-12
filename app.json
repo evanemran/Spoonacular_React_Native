@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Spoonacular_React",
+    "slug": "Spoonacular_React",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Spoonacular_React"
+}
